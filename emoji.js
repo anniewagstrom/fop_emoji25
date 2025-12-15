@@ -1,4 +1,4 @@
-// This code was created with inspiration from Linus Sönnerhed's example
+// This code was created with inspiration from Linus Sönnerhed's example.
 
 function setup() {
   createCanvas(400, 400);
